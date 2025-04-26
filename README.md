@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShraddhaJahagirdar&color=blue) 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shraddha-jahagirdar-qa09)
-[![Email](https://img.shields.io/badge/Email-ShraddhaJahagirdar@gmail.com-red?style=flat&logo=gmail)](mailto:shraddhadjahagirdar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ShraddhadJahagirdar@gmail.com-red?style=flat&logo=gmail)](mailto:shraddhadjahagirdar@gmail.com)
 
 ---
 
