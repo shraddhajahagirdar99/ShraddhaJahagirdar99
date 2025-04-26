@@ -7,12 +7,43 @@
 
 ---
 
-## 🔥 About Me
+# 🚀 About Me
 
-🌟 A passionate Senior QA Lead with 11+ years of experience across Payments,Banking, Telecom, Automotive, and Retail domains.  
-🌟 Enthusiastic about Test Automation, API Testing, Performance Engineering, and Agile Delivery Excellence.  
-🌟 Believer in building quality-first culture, continuous improvement, and impactful collaboration.  
-🌟 Exploring AI-powered QA solutions and cloud-native testing frameworks.
+🌟 Senior QA Lead with 11+ years of experience across SaaS, Banking, Telecom, Automotive, and Retail sectors.  
+🌟 Specialized in Test Automation, API Testing, Performance Testing, Cloud QA, and Agile Quality Management.  
+🌟 Passionate about building scalable, maintainable, and future-ready test architectures.  
+🌟 Strong advocate of "Shift Left" testing practices and continuous quality improvement.  
+🌟 Enthusiastic about driving innovation through AI-driven test strategies and cloud-based solutions.  
+🌟 Committed to mentoring QA teams, growing technical capabilities, and promoting a quality-first culture.
+
+---
+
+# 🔥 Highlights
+
+# 🔥 Highlights
+
+✅ Led the design and implementation of end-to-end test automation frameworks for SaaS-based banking and payment platforms using Selenium, TestNG, Maven, and POM architecture.
+
+✅ Defined and executed comprehensive testing strategies covering functional, API, performance, regression, integration, and UAT testing phases across Agile delivery models.
+
+✅ Built Shift-Left testing practices by integrating automated tests early into CI/CD pipelines, improving defect detection at earlier stages.
+
+✅ Developed robust API testing frameworks using Postman, Rest Assured, and Karate for microservices and payment gateways (SEPA, SWIFT, ISO standards).
+
+✅ Led root cause analysis (RCA) initiatives to minimize defect leakage into production, collaborating closely with development, business, and product teams.
+
+✅ Spearheaded performance testing initiatives using JMeter for validating scalability, stability, and reliability of banking and financial systems.
+
+✅ Mentored QA teams on best practices in automation coding standards, BDD/TDD approaches, and Agile QA methodologies.
+
+✅ Established reusable libraries, utilities, and page object repositories to ensure maintainability and scalability of automated test scripts.
+
+✅ Actively contributed to test planning, estimation, risk analysis, and test closure documentation as part of full lifecycle QA leadership.
+
+✅ Fostered a quality-first mindset across cross-functional teams by championing continuous improvement, innovation, and customer-centric testing approaches.
+
+
+
 
 ---
 
