@@ -9,7 +9,7 @@
 
 ## 🔥 About Me
 
-🌟 A passionate Senior QA Lead with 11+ years of experience across SaaS, Banking, Telecom, Automotive, and Retail domains.  
+🌟 A passionate Senior QA Lead with 11+ years of experience across Payments,Banking, Telecom, Automotive, and Retail domains.  
 🌟 Enthusiastic about Test Automation, API Testing, Performance Engineering, and Agile Delivery Excellence.  
 🌟 Believer in building quality-first culture, continuous improvement, and impactful collaboration.  
 🌟 Exploring AI-powered QA solutions and cloud-native testing frameworks.
@@ -21,7 +21,7 @@
 ### 🧪 Testing & Automation
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green?logo=selenium) 
 ![TestNG](https://img.shields.io/badge/TestNG-Framework-critical?logo=testng)
-![Maven](https://img.shields.io/badge/Maven-BuildTool-orange?logo=apachemaven)
+![Maven](https://img.shields.io/badge/Maven,Gradle-BuildTool-orange?logo=apachemaven)
 ![Postman](https://img.shields.io/badge/Postman-API-orange?logo=postman)
 ![Rest Assured](https://img.shields.io/badge/RestAssured-API-green)
 ![JMeter](https://img.shields.io/badge/JMeter-Performance-red)
